@@ -1,4 +1,4 @@
-#reomoving suffix like parts from the words like removing 'ing' from swimming to get swim is STEMMING
+#Reomoving suffix from the words like removing 'ing' from swimming to get swim is STEMMING
 from nltk import PorterStemmer 
 from nltk import word_tokenize
 ps=PorterStemmer()

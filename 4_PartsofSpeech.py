@@ -1,3 +1,4 @@
+#Representing the words with their Parts of Speech
 import nltk 
 from nltk.corpus import state_union
 ''' PunktSentenceTokenizer is unsupervised ml sentence tokenizer 
