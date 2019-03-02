@@ -1,3 +1,4 @@
+# Stop words are words in a sentence which are pretty useless to the machine, so it's better to remove those words from the sentences.
 from nltk.corpus import stopwords
 from nltk import word_tokenize
 
